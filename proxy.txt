@@ -3,332 +3,331 @@
 {"host": "168.149.146.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "155.138.233.191", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "208.97.133.64", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "198.98.58.178", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "155.138.194.182", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "167.172.248.53", "anonymity": "high_anonymous", "type": "http", "port": 3128}
 {"host": "72.35.40.34", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "109.169.21.194", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "78.46.8.204", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "159.65.78.119", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "199.116.170.174", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "199.116.170.132", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "199.116.170.171", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "199.116.170.156", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "199.116.170.140", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "199.116.170.174", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "199.116.170.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "199.116.170.132", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "199.116.170.164", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "199.116.170.165", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "199.116.170.171", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "34.90.113.143", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "199.116.170.164", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "199.116.170.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "199.116.170.148", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "199.116.170.173", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "66.90.255.99", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "95.179.166.189", "anonymity": "anonymous", "type": "http", "port": 8888}
-{"host": "163.172.189.32", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.68.68", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.113.142", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.111.229", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "54.36.246.74", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "168.149.156.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "51.158.119.88", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "193.32.6.6", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "18.231.127.92", "anonymity": "anonymous", "type": "http", "port": 3402}
-{"host": "51.158.68.133", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.108.135", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "163.172.147.94", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "163.172.152.52", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.106.54", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "51.158.123.35", "anonymity": "anonymous", "type": "http", "port": 8811}
-{"host": "95.216.12.6", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "167.172.248.53", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "173.212.202.65", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "5.189.133.231", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "181.30.28.12", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "200.89.178.193", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "200.89.178.19", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "200.89.174.181", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "181.30.28.201", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "155.138.194.182", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "109.169.21.194", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "72.35.40.34", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "159.65.78.119", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "200.89.178.209", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "200.89.178.196", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "34.90.113.143", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "54.36.246.74", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "78.46.8.204", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "51.158.106.54", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "168.149.156.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "193.32.6.6", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "95.216.12.6", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "51.158.113.142", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "163.172.152.52", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "163.172.147.94", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "51.158.111.229", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "18.231.127.92", "anonymity": "anonymous", "type": "http", "port": 3402}
+{"host": "178.128.255.198", "anonymity": "high_anonymous", "type": "http", "port": 1080}
+{"host": "51.158.123.35", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "163.172.189.32", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "138.201.72.117", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "80.59.199.213", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "189.43.68.169", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "80.48.119.28", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "23.91.96.251", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "201.49.229.185", "anonymity": "anonymous", "type": "http", "port": 20183}
+{"host": "200.89.178.193", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "181.30.28.201", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "200.89.174.181", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "181.30.28.12", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "200.89.178.19", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "181.30.28.14", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "200.89.178.196", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "200.89.178.208", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "181.30.28.13", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "200.89.178.195", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "209.90.63.108", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "168.149.131.164", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "168.149.131.172", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "210.140.170.236", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "118.31.79.90", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "51.15.166.107", "anonymity": "anonymous", "type": "http", "port": 3128}
 {"host": "173.249.42.83", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "163.180.117.236", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "95.178.18.36", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "189.57.62.146", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "116.196.85.150", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "66.90.255.99", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "89.40.59.174", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "47.75.11.94", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "101.231.104.82", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "89.165.218.82", "anonymity": "high_anonymous", "type": "http", "port": 47886}
-{"host": "51.158.123.35", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "163.172.147.94", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "195.211.39.107", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "168.149.131.164", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "189.43.68.169", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "52.80.58.248", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "128.199.252.41", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "36.25.243.51", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "194.226.34.132", "anonymity": "high_anonymous", "type": "http", "port": 5555}
-{"host": "187.16.4.126", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "118.31.79.90", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "168.121.176.58", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "203.153.119.94", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "201.22.97.49", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "41.65.186.122", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "41.73.15.246", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "116.196.85.150", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "189.57.62.146", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "41.73.15.130", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "41.73.15.134", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "41.73.15.246", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "47.75.11.94", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "51.38.71.101", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "95.178.18.36", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "101.231.104.82", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "117.1.16.131", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "51.158.108.135", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "193.32.6.6", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "51.158.68.68", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "47.74.44.84", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "51.158.111.229", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "51.158.113.142", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "118.99.102.125", "anonymity": "anonymous", "type": "http", "port": 80}
 {"host": "117.1.16.130", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "123.30.155.6", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "163.172.152.52", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "163.172.189.32", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "34.90.113.143", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "52.80.58.248", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "51.158.68.133", "anonymity": "high_anonymous", "type": "https", "port": 8811}
 {"host": "125.19.27.2", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "87.255.13.217", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "146.88.51.235", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "118.69.50.153", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "146.88.51.234", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "95.179.166.189", "anonymity": "high_anonymous", "type": "https", "port": 8888}
 {"host": "180.128.8.30", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "103.110.59.189", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "182.52.137.133", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "51.158.106.54", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "80.59.199.213", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "200.89.178.208", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "207.148.100.132", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "51.158.119.88", "anonymity": "high_anonymous", "type": "https", "port": 8811}
-{"host": "182.73.171.43", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "18.231.127.92", "anonymity": "high_anonymous", "type": "https", "port": 3402}
-{"host": "95.216.12.6", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "185.204.202.199", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "1.10.133.200", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "89.165.218.82", "anonymity": "high_anonymous", "type": "https", "port": 47886}
-{"host": "125.162.27.105", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "181.30.28.14", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "105.27.143.190", "anonymity": "high_anonymous", "type": "http", "port": 51408}
-{"host": "189.57.62.146", "anonymity": "high_anonymous", "type": "https", "port": 80}
-{"host": "36.25.243.51", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "173.249.42.83", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "128.199.252.41", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "195.211.39.107", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "89.42.133.58", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "212.175.167.137", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "151.253.158.10", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "197.234.35.82", "anonymity": "high_anonymous", "type": "http", "port": 53281}
-{"host": "95.178.18.36", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "151.253.165.70", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "201.22.97.49", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "158.140.169.101", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "89.40.59.174", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "181.30.28.13", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "177.133.171.43", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "209.90.63.108", "anonymity": "high_anonymous", "type": "https", "port": 80}
-{"host": "113.28.129.60", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "124.41.240.205", "anonymity": "high_anonymous", "type": "http", "port": 46830}
-{"host": "103.7.129.243", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "195.211.39.107", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "201.55.164.177", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "123.30.155.6", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "87.255.13.217", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "116.196.85.150", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "77.242.25.143", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "167.249.171.42", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "189.61.64.132", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "194.226.34.132", "anonymity": "high_anonymous", "type": "https", "port": 5555}
-{"host": "125.162.27.105", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "187.16.4.126", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "105.27.143.190", "anonymity": "high_anonymous", "type": "https", "port": 51408}
-{"host": "117.1.16.130", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "117.1.16.131", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.36.35.135", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "45.115.174.29", "anonymity": "high_anonymous", "type": "http", "port": 38961}
-{"host": "177.133.171.43", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.214.191.253", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "182.52.137.133", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "95.156.125.190", "anonymity": "high_anonymous", "type": "https", "port": 41870}
-{"host": "171.5.24.41", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "201.22.97.49", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "191.243.216.1", "anonymity": "high_anonymous", "type": "http", "port": 53281}
-{"host": "1.10.133.200", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "189.61.64.132", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "103.78.213.226", "anonymity": "high_anonymous", "type": "http", "port": 45075}
-{"host": "180.128.8.30", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "99.126.106.177", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "212.67.0.150", "anonymity": "high_anonymous", "type": "https", "port": 33171}
-{"host": "200.89.178.194", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "151.253.165.70", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "181.49.25.18", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "141.101.236.49", "anonymity": "high_anonymous", "type": "http", "port": 61853}
-{"host": "41.65.186.122", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "183.89.188.107", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "186.215.3.204", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "118.175.93.25", "anonymity": "high_anonymous", "type": "http", "port": 31596}
-{"host": "41.73.15.130", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "206.189.45.191", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "23.237.173.102", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "41.73.15.246", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "41.73.15.246", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "41.73.15.134", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "80.90.85.234", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "23.237.173.102", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "103.36.35.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.78.213.226", "anonymity": "high_anonymous", "type": "https", "port": 45075}
-{"host": "196.22.221.2", "anonymity": "high_anonymous", "type": "http", "port": 56035}
-{"host": "103.101.17.172", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "103.205.132.168", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "171.5.24.41", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "79.106.161.11", "anonymity": "high_anonymous", "type": "http", "port": 60124}
-{"host": "167.249.171.42", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "176.109.176.99", "anonymity": "anonymous", "type": "http", "port": 53281}
-{"host": "151.253.158.10", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "118.175.93.25", "anonymity": "high_anonymous", "type": "https", "port": 31596}
-{"host": "181.49.25.18", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "62.160.163.237", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "186.96.110.162", "anonymity": "anonymous", "type": "http", "port": 999}
-{"host": "118.99.102.125", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "181.143.221.76", "anonymity": "high_anonymous", "type": "https", "port": 53281}
-{"host": "176.109.176.99", "anonymity": "high_anonymous", "type": "https", "port": 53281}
-{"host": "52.80.58.248", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "190.111.231.8", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "103.242.14.68", "anonymity": "high_anonymous", "type": "https", "port": 31127}
-{"host": "1.179.183.109", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "183.89.188.107", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "36.89.151.27", "anonymity": "high_anonymous", "type": "http", "port": 59760}
-{"host": "181.114.63.129", "anonymity": "high_anonymous", "type": "http", "port": 8085}
-{"host": "118.99.102.125", "anonymity": "high_anonymous", "type": "https", "port": 80}
-{"host": "31.46.237.142", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "195.55.108.26", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "181.114.63.129", "anonymity": "high_anonymous", "type": "https", "port": 8085}
-{"host": "124.41.240.205", "anonymity": "high_anonymous", "type": "https", "port": 46830}
-{"host": "103.66.177.129", "anonymity": "high_anonymous", "type": "https", "port": 51062}
-{"host": "36.73.12.40", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.205.132.168", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "190.111.231.8", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "163.180.117.236", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.101.17.172", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "36.27.30.144", "anonymity": "high_anonymous", "type": "http", "port": 9999}
-{"host": "112.87.76.221", "anonymity": "high_anonymous", "type": "http", "port": 9999}
-{"host": "223.199.23.104", "anonymity": "high_anonymous", "type": "http", "port": 9999}
-{"host": "223.199.19.204", "anonymity": "high_anonymous", "type": "http", "port": 9999}
-{"host": "123.163.27.232", "anonymity": "high_anonymous", "type": "http", "port": 9999}
-{"host": "36.27.30.144", "anonymity": "high_anonymous", "type": "https", "port": 9999}
-{"host": "112.87.76.221", "anonymity": "high_anonymous", "type": "https", "port": 9999}
-{"host": "222.175.171.6", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "222.175.171.6", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "223.199.23.104", "anonymity": "high_anonymous", "type": "https", "port": 9999}
-{"host": "104.236.48.178", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "113.161.68.146", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "104.236.48.178", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "202.69.38.82", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "212.12.69.43", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "212.12.69.43", "anonymity": "high_anonymous", "type": "https", "port": 80}
-{"host": "155.138.194.182", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "155.138.194.182", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "178.128.255.198", "anonymity": "high_anonymous", "type": "http", "port": 1080}
-{"host": "94.130.125.216", "anonymity": "high_anonymous", "type": "http", "port": 1080}
-{"host": "94.130.125.220", "anonymity": "high_anonymous", "type": "http", "port": 1080}
-{"host": "103.220.207.242", "anonymity": "high_anonymous", "type": "http", "port": 54349}
-{"host": "178.128.255.198", "anonymity": "high_anonymous", "type": "https", "port": 1080}
-{"host": "111.95.22.73", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "171.100.27.57", "anonymity": "high_anonymous", "type": "https", "port": 8118}
-{"host": "182.16.171.1", "anonymity": "high_anonymous", "type": "https", "port": 53281}
-{"host": "176.117.255.182", "anonymity": "high_anonymous", "type": "https", "port": 53100}
-{"host": "80.87.184.49", "anonymity": "high_anonymous", "type": "http", "port": 41258}
-{"host": "103.220.207.242", "anonymity": "high_anonymous", "type": "https", "port": 54349}
-{"host": "62.99.53.95", "anonymity": "high_anonymous", "type": "http", "port": 39068}
-{"host": "192.140.91.133", "anonymity": "high_anonymous", "type": "https", "port": 50701}
-{"host": "103.221.254.44", "anonymity": "high_anonymous", "type": "https", "port": 56471}
-{"host": "192.140.91.133", "anonymity": "high_anonymous", "type": "http", "port": 50701}
-{"host": "93.87.60.152", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "103.221.254.44", "anonymity": "high_anonymous", "type": "http", "port": 56471}
-{"host": "118.99.100.177", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "169.1.129.67", "anonymity": "anonymous", "type": "http", "port": 8888}
-{"host": "176.117.255.182", "anonymity": "high_anonymous", "type": "http", "port": 53100}
-{"host": "45.79.159.216", "anonymity": "high_anonymous", "type": "http", "port": 3128}
-{"host": "200.89.178.195", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "168.121.176.58", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "185.35.142.70", "anonymity": "high_anonymous", "type": "https", "port": 35432}
-{"host": "197.242.206.105", "anonymity": "high_anonymous", "type": "http", "port": 46640}
-{"host": "213.6.101.174", "anonymity": "high_anonymous", "type": "https", "port": 23500}
-{"host": "78.165.74.210", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "34.90.113.143", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "47.74.44.84", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "134.236.160.105", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "51.158.113.142", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "1.10.133.200", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "51.158.111.229", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "51.158.68.133", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "51.158.123.35", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "182.52.137.133", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "103.110.59.189", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "178.128.255.198", "anonymity": "high_anonymous", "type": "https", "port": 1080}
+{"host": "51.158.106.54", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "51.158.68.68", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "163.172.152.52", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "163.180.117.236", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "163.172.147.94", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "187.16.4.126", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "193.32.6.6", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "207.148.100.132", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "212.12.69.43", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "80.59.199.213", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "89.40.59.174", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "99.126.106.177", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "62.160.163.237", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "58.8.187.44", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "103.9.188.151", "anonymity": "high_anonymous", "type": "http", "port": 38439}
-{"host": "159.138.20.247", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "1.0.187.240", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "49.49.77.86", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "154.41.2.154", "anonymity": "high_anonymous", "type": "https", "port": 13538}
-{"host": "81.95.131.10", "anonymity": "high_anonymous", "type": "https", "port": 44292}
-{"host": "190.121.158.122", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "95.216.12.6", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "198.98.58.178", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "125.162.27.105", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "163.172.189.32", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "182.73.171.43", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "66.90.255.99", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "109.169.21.194", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "95.179.166.189", "anonymity": "anonymous", "type": "http", "port": 8888}
+{"host": "18.231.127.92", "anonymity": "high_anonymous", "type": "https", "port": 3402}
 {"host": "168.121.176.58", "anonymity": "high_anonymous", "type": "https", "port": 80}
+{"host": "51.158.68.68", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "118.69.50.153", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "195.211.39.107", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "51.158.119.88", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "51.158.68.133", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "80.48.119.28", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "212.175.167.137", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "173.249.42.83", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "49.49.77.86", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "201.22.97.49", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "51.158.108.135", "anonymity": "anonymous", "type": "http", "port": 8811}
+{"host": "189.57.62.146", "anonymity": "high_anonymous", "type": "https", "port": 80}
+{"host": "118.174.65.172", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "95.178.18.36", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "66.90.255.99", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "151.253.158.10", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "89.40.59.174", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "177.101.191.158", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "203.153.119.94", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "95.68.115.202", "anonymity": "high_anonymous", "type": "http", "port": 53281}
-{"host": "45.236.120.241", "anonymity": "high_anonymous", "type": "https", "port": 999}
-{"host": "1.20.97.96", "anonymity": "high_anonymous", "type": "https", "port": 54205}
-{"host": "187.141.164.242", "anonymity": "high_anonymous", "type": "https", "port": 31120}
-{"host": "213.80.225.40", "anonymity": "high_anonymous", "type": "https", "port": 50096}
-{"host": "134.236.160.105", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "1.0.187.240", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.15.167.124", "anonymity": "high_anonymous", "type": "http", "port": 41787}
+{"host": "80.90.85.234", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "117.1.16.130", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "118.99.102.125", "anonymity": "high_anonymous", "type": "https", "port": 80}
+{"host": "113.28.129.60", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "194.226.34.132", "anonymity": "high_anonymous", "type": "https", "port": 5555}
+{"host": "117.1.16.131", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "123.30.155.6", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "212.12.69.43", "anonymity": "high_anonymous", "type": "https", "port": 80}
+{"host": "51.158.108.135", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "104.236.48.178", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "58.8.187.44", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "185.138.69.110", "anonymity": "high_anonymous", "type": "https", "port": 39274}
-{"host": "193.106.94.106", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "101.109.35.135", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "186.42.124.130", "anonymity": "high_anonymous", "type": "https", "port": 65301}
+{"host": "45.79.159.216", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "1.10.133.200", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "125.162.27.105", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "134.236.160.105", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "186.215.3.204", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "182.52.137.133", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "189.61.64.132", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "159.138.20.247", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "180.128.8.30", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "49.49.77.86", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "82.200.88.50", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "203.170.76.6", "anonymity": "high_anonymous", "type": "http", "port": 58576}
-{"host": "139.255.94.122", "anonymity": "high_anonymous", "type": "http", "port": 44315}
-{"host": "195.144.219.155", "anonymity": "high_anonymous", "type": "http", "port": 54857}
+{"host": "45.115.174.29", "anonymity": "high_anonymous", "type": "http", "port": 38961}
+{"host": "78.165.74.210", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "87.255.13.217", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "103.205.132.168", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "118.174.65.172", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "101.109.35.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "46.146.197.19", "anonymity": "high_anonymous", "type": "https", "port": 50611}
-{"host": "165.255.174.18", "anonymity": "anonymous", "type": "http", "port": 3128}
-{"host": "146.196.108.202", "anonymity": "anonymous", "type": "http", "port": 80}
-{"host": "45.236.120.241", "anonymity": "anonymous", "type": "http", "port": 999}
-{"host": "41.160.40.2", "anonymity": "high_anonymous", "type": "http", "port": 37741}
-{"host": "111.95.22.73", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "103.210.141.31", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "103.15.167.124", "anonymity": "high_anonymous", "type": "https", "port": 41787}
-{"host": "176.241.89.36", "anonymity": "high_anonymous", "type": "https", "port": 38170}
-{"host": "91.217.42.3", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "14.98.195.90", "anonymity": "high_anonymous", "type": "http", "port": 55207}
-{"host": "185.138.69.110", "anonymity": "high_anonymous", "type": "http", "port": 39274}
-{"host": "82.200.88.50", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "213.14.31.122", "anonymity": "high_anonymous", "type": "http", "port": 54434}
-{"host": "103.254.58.48", "anonymity": "anonymous", "type": "http", "port": 53281}
-{"host": "196.2.14.250", "anonymity": "high_anonymous", "type": "https", "port": 41612}
-{"host": "164.73.191.2", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "188.168.27.71", "anonymity": "high_anonymous", "type": "https", "port": 36733}
-{"host": "138.201.72.117", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "177.21.110.254", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "118.99.100.177", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "116.196.85.150", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "80.90.85.234", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.7.129.243", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "209.90.63.108", "anonymity": "high_anonymous", "type": "https", "port": 80}
 {"host": "177.101.191.158", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.241.204.225", "anonymity": "high_anonymous", "type": "http", "port": 8080}
-{"host": "41.160.40.2", "anonymity": "high_anonymous", "type": "https", "port": 37741}
-{"host": "103.208.152.34", "anonymity": "high_anonymous", "type": "http", "port": 37841}
-{"host": "191.242.230.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.44.136.9", "anonymity": "high_anonymous", "type": "http", "port": 46706}
-{"host": "78.165.74.210", "anonymity": "high_anonymous", "type": "https", "port": 80}
-{"host": "159.138.22.112", "anonymity": "high_anonymous", "type": "http", "port": 80}
-{"host": "31.173.94.93", "anonymity": "high_anonymous", "type": "http", "port": 59117}
-{"host": "103.241.204.225", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "181.113.225.198", "anonymity": "high_anonymous", "type": "http", "port": 53281}
-{"host": "31.173.94.93", "anonymity": "high_anonymous", "type": "https", "port": 59117}
-{"host": "103.208.152.34", "anonymity": "high_anonymous", "type": "https", "port": 37841}
-{"host": "51.38.71.101", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "181.49.25.18", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "217.168.76.230", "anonymity": "high_anonymous", "type": "http", "port": 59021}
-{"host": "125.209.82.78", "anonymity": "high_anonymous", "type": "https", "port": 35087}
+{"host": "189.61.64.132", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "87.255.13.217", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "51.158.119.88", "anonymity": "high_anonymous", "type": "https", "port": 8811}
+{"host": "105.27.143.190", "anonymity": "high_anonymous", "type": "http", "port": 51408}
+{"host": "36.89.151.27", "anonymity": "high_anonymous", "type": "http", "port": 59760}
+{"host": "190.121.158.122", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "206.189.45.191", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "91.217.42.3", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "95.179.166.189", "anonymity": "high_anonymous", "type": "https", "port": 8888}
+{"host": "31.46.237.142", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "176.109.176.99", "anonymity": "anonymous", "type": "http", "port": 53281}
+{"host": "77.242.25.143", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "23.237.173.102", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "103.15.167.124", "anonymity": "high_anonymous", "type": "https", "port": 41787}
+{"host": "201.55.164.177", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "190.111.231.8", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "124.41.240.205", "anonymity": "high_anonymous", "type": "https", "port": 46830}
+{"host": "103.205.132.168", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "23.237.173.102", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "77.242.25.143", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.220.207.242", "anonymity": "high_anonymous", "type": "http", "port": 54349}
+{"host": "91.217.42.3", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "118.99.100.177", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "186.215.3.204", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.221.254.44", "anonymity": "high_anonymous", "type": "http", "port": 56471}
+{"host": "213.6.101.174", "anonymity": "high_anonymous", "type": "https", "port": 23500}
+{"host": "113.161.68.146", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "181.49.25.18", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "118.175.93.25", "anonymity": "high_anonymous", "type": "http", "port": 31596}
+{"host": "191.242.230.135", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "201.49.229.185", "anonymity": "anonymous", "type": "http", "port": 20183}
+{"host": "93.87.60.152", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "78.165.74.210", "anonymity": "high_anonymous", "type": "https", "port": 80}
+{"host": "187.16.4.126", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "125.209.82.78", "anonymity": "high_anonymous", "type": "http", "port": 35087}
+{"host": "103.208.152.34", "anonymity": "high_anonymous", "type": "http", "port": 37841}
+{"host": "52.80.58.248", "anonymity": "high_anonymous", "type": "https", "port": 3128}
 {"host": "46.8.28.17", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "217.168.76.230", "anonymity": "high_anonymous", "type": "https", "port": 59021}
-{"host": "81.163.36.210", "anonymity": "high_anonymous", "type": "https", "port": 34197}
-{"host": "202.166.196.28", "anonymity": "high_anonymous", "type": "http", "port": 50153}
-{"host": "181.113.225.198", "anonymity": "high_anonymous", "type": "https", "port": 53281}
-{"host": "165.255.174.18", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "103.44.136.9", "anonymity": "high_anonymous", "type": "https", "port": 46706}
+{"host": "151.253.158.10", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "183.89.188.107", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "103.220.207.242", "anonymity": "high_anonymous", "type": "https", "port": 54349}
+{"host": "163.180.117.236", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "31.46.237.142", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "125.209.82.78", "anonymity": "high_anonymous", "type": "https", "port": 35087}
+{"host": "195.144.219.155", "anonymity": "high_anonymous", "type": "https", "port": 54857}
+{"host": "93.87.60.152", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "195.144.219.155", "anonymity": "high_anonymous", "type": "http", "port": 54857}
+{"host": "105.27.143.190", "anonymity": "high_anonymous", "type": "https", "port": 51408}
+{"host": "171.5.24.41", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "190.111.231.8", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "122.228.19.92", "anonymity": "anonymous", "type": "http", "port": 3389}
+{"host": "117.94.28.33", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "123.169.99.60", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "223.199.18.124", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "49.77.210.171", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "223.199.28.68", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "121.226.188.253", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "121.226.188.253", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "49.77.210.171", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "223.199.28.68", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "223.199.18.124", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "123.169.99.60", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "122.228.19.92", "anonymity": "high_anonymous", "type": "https", "port": 3389}
+{"host": "117.94.28.33", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "46.101.215.222", "anonymity": "high_anonymous", "type": "https", "port": 8118}
+{"host": "109.111.135.170", "anonymity": "anonymous", "type": "http", "port": 53281}
+{"host": "77.109.63.157", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "91.200.166.200", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "200.110.172.2", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "177.42.177.254", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "66.42.82.5", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "77.109.63.157", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "66.42.82.5", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "200.89.178.28", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "190.214.9.10", "anonymity": "high_anonymous", "type": "http", "port": 41572}
+{"host": "91.200.166.200", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "95.67.45.234", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "213.109.6.85", "anonymity": "high_anonymous", "type": "http", "port": 37062}
+{"host": "54.207.83.217", "anonymity": "high_anonymous", "type": "http", "port": 4443}
+{"host": "190.214.9.10", "anonymity": "high_anonymous", "type": "https", "port": 41572}
+{"host": "186.46.222.226", "anonymity": "high_anonymous", "type": "https", "port": 59765}
+{"host": "189.206.166.12", "anonymity": "high_anonymous", "type": "http", "port": 60002}
+{"host": "189.206.166.12", "anonymity": "high_anonymous", "type": "https", "port": 60002}
+{"host": "182.52.238.52", "anonymity": "high_anonymous", "type": "http", "port": 50619}
+{"host": "91.67.17.221", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "188.120.232.181", "anonymity": "high_anonymous", "type": "http", "port": 8118}
+{"host": "85.187.184.129", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "203.128.79.18", "anonymity": "high_anonymous", "type": "https", "port": 43227}
+{"host": "196.22.221.97", "anonymity": "high_anonymous", "type": "https", "port": 56035}
+{"host": "96.9.80.62", "anonymity": "high_anonymous", "type": "http", "port": 45557}
+{"host": "204.15.243.233", "anonymity": "high_anonymous", "type": "https", "port": 58159}
+{"host": "51.75.170.50", "anonymity": "high_anonymous", "type": "http", "port": 8118}
+{"host": "114.130.92.14", "anonymity": "high_anonymous", "type": "https", "port": 49167}
+{"host": "188.225.27.151", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "178.254.148.231", "anonymity": "anonymous", "type": "http", "port": 8090}
+{"host": "95.79.36.55", "anonymity": "high_anonymous", "type": "https", "port": 44861}
+{"host": "223.199.26.96", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "103.221.254.2", "anonymity": "high_anonymous", "type": "https", "port": 40576}
+{"host": "213.109.6.85", "anonymity": "high_anonymous", "type": "https", "port": 37062}
+{"host": "197.211.245.50", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "114.110.21.50", "anonymity": "high_anonymous", "type": "http", "port": 50464}
+{"host": "131.255.118.30", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "188.225.27.151", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "45.123.42.149", "anonymity": "high_anonymous", "type": "http", "port": 61334}
+{"host": "1.20.100.111", "anonymity": "high_anonymous", "type": "https", "port": 30095}
+{"host": "114.110.21.50", "anonymity": "high_anonymous", "type": "https", "port": 50464}
+{"host": "62.201.220.50", "anonymity": "high_anonymous", "type": "https", "port": 43031}
+{"host": "85.196.183.162", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "202.63.104.89", "anonymity": "high_anonymous", "type": "http", "port": 54297}
+{"host": "95.0.66.11", "anonymity": "high_anonymous", "type": "https", "port": 9090}
+{"host": "114.110.21.121", "anonymity": "high_anonymous", "type": "http", "port": 50464}
+{"host": "103.231.218.126", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "95.181.45.234", "anonymity": "high_anonymous", "type": "http", "port": 55878}
+{"host": "176.90.71.96", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "180.250.153.130", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "85.187.184.129", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "176.90.71.96", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "136.228.128.164", "anonymity": "high_anonymous", "type": "http", "port": 53052}
+{"host": "200.54.194.13", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "36.37.113.4", "anonymity": "high_anonymous", "type": "https", "port": 36485}
+{"host": "196.44.67.172", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "200.127.155.198", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "180.250.247.126", "anonymity": "high_anonymous", "type": "http", "port": 23500}
+{"host": "5.15.180.175", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "36.89.193.169", "anonymity": "high_anonymous", "type": "http", "port": 49612}
+{"host": "36.89.193.169", "anonymity": "high_anonymous", "type": "https", "port": 49612}
+{"host": "31.209.97.66", "anonymity": "high_anonymous", "type": "https", "port": 57482}
+{"host": "176.104.52.46", "anonymity": "high_anonymous", "type": "http", "port": 47578}
+{"host": "182.52.238.44", "anonymity": "high_anonymous", "type": "https", "port": 37758}
+{"host": "5.15.180.175", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "5.58.52.231", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "23.225.92.19", "anonymity": "high_anonymous", "type": "https", "port": 30022}
+{"host": "1.20.100.133", "anonymity": "high_anonymous", "type": "https", "port": 46755}
+{"host": "223.199.26.96", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "188.134.16.191", "anonymity": "high_anonymous", "type": "http", "port": 43665}
+{"host": "176.104.52.46", "anonymity": "high_anonymous", "type": "https", "port": 47578}
+{"host": "194.167.44.91", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "189.51.98.182", "anonymity": "high_anonymous", "type": "http", "port": 56906}
+{"host": "203.196.32.61", "anonymity": "high_anonymous", "type": "https", "port": 45305}
+{"host": "131.221.64.152", "anonymity": "high_anonymous", "type": "https", "port": 23500}
+{"host": "168.90.50.118", "anonymity": "high_anonymous", "type": "https", "port": 39734}
+{"host": "202.63.104.89", "anonymity": "high_anonymous", "type": "https", "port": 54297}
+{"host": "189.51.98.182", "anonymity": "high_anonymous", "type": "https", "port": 56906}
+{"host": "14.207.213.112", "anonymity": "anonymous", "type": "http", "port": 8213}
+{"host": "197.81.195.200", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "181.198.97.241", "anonymity": "high_anonymous", "type": "http", "port": 30072}
+{"host": "45.6.136.38", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "84.214.150.146", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "45.6.136.38", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "14.207.213.112", "anonymity": "high_anonymous", "type": "https", "port": 8213}
+{"host": "103.94.171.134", "anonymity": "high_anonymous", "type": "http", "port": 46276}
+{"host": "103.105.212.106", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "103.31.251.25", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "181.198.97.241", "anonymity": "high_anonymous", "type": "https", "port": 30072}
+{"host": "139.5.71.126", "anonymity": "high_anonymous", "type": "https", "port": 23500}
+{"host": "103.94.121.27", "anonymity": "high_anonymous", "type": "http", "port": 60109}
+{"host": "139.5.71.80", "anonymity": "high_anonymous", "type": "http", "port": 23500}
+{"host": "138.121.32.26", "anonymity": "high_anonymous", "type": "https", "port": 23500}
+{"host": "118.173.232.219", "anonymity": "high_anonymous", "type": "http", "port": 57499}
+{"host": "83.219.1.201", "anonymity": "high_anonymous", "type": "https", "port": 41380}
 {"host": "49.70.89.105", "anonymity": "\u9ad8\u533f", "type": "HTTPS", "port": "9999"}
 {"host": "114.99.22.162", "anonymity": "\u9ad8\u533f", "type": "HTTPS", "port": "808"}
 {"host": "115.211.228.184", "anonymity": "\u9ad8\u533f", "type": "HTTP", "port": "9999"}
@@ -429,10 +428,133 @@
 {"host": "117.69.98.216", "anonymity": "\u9ad8\u533f", "type": "socks4/5", "port": "6666"}
 {"host": "113.121.245.231", "anonymity": "\u9ad8\u533f", "type": "socks4/5", "port": "6675"}
 {"host": "218.73.130.59", "anonymity": "\u9ad8\u533f", "type": "socks4/5", "port": "6675"}
+{"host": "173.212.202.65", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "5.189.133.231", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "200.89.178.209", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "51.15.166.107", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "89.165.218.82", "anonymity": "high_anonymous", "type": "http", "port": 47886}
+{"host": "146.88.51.235", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "146.88.51.234", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "185.204.202.199", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "89.165.218.82", "anonymity": "high_anonymous", "type": "https", "port": 47886}
+{"host": "89.42.133.58", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "197.234.35.82", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "151.253.165.70", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "158.140.169.101", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "177.133.171.43", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "124.41.240.205", "anonymity": "high_anonymous", "type": "http", "port": 46830}
+{"host": "167.249.171.42", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "103.36.35.135", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "177.133.171.43", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.214.191.253", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "95.156.125.190", "anonymity": "high_anonymous", "type": "https", "port": 41870}
+{"host": "171.5.24.41", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "191.243.216.1", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "103.78.213.226", "anonymity": "high_anonymous", "type": "http", "port": 45075}
+{"host": "212.67.0.150", "anonymity": "high_anonymous", "type": "https", "port": 33171}
+{"host": "200.89.178.194", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "151.253.165.70", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "141.101.236.49", "anonymity": "high_anonymous", "type": "http", "port": 61853}
+{"host": "103.36.35.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.78.213.226", "anonymity": "high_anonymous", "type": "https", "port": 45075}
+{"host": "196.22.221.2", "anonymity": "high_anonymous", "type": "http", "port": 56035}
+{"host": "103.101.17.172", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "79.106.161.11", "anonymity": "high_anonymous", "type": "http", "port": 60124}
+{"host": "167.249.171.42", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "118.175.93.25", "anonymity": "high_anonymous", "type": "https", "port": 31596}
+{"host": "186.96.110.162", "anonymity": "anonymous", "type": "http", "port": 999}
+{"host": "181.143.221.76", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "176.109.176.99", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "103.242.14.68", "anonymity": "high_anonymous", "type": "https", "port": 31127}
+{"host": "1.179.183.109", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "183.89.188.107", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "181.114.63.129", "anonymity": "high_anonymous", "type": "http", "port": 8085}
+{"host": "195.55.108.26", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "181.114.63.129", "anonymity": "high_anonymous", "type": "https", "port": 8085}
+{"host": "103.66.177.129", "anonymity": "high_anonymous", "type": "https", "port": 51062}
+{"host": "36.73.12.40", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.101.17.172", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "36.27.30.144", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "112.87.76.221", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "223.199.23.104", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "223.199.19.204", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "123.163.27.232", "anonymity": "high_anonymous", "type": "http", "port": 9999}
+{"host": "36.27.30.144", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "112.87.76.221", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "222.175.171.6", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "222.175.171.6", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "223.199.23.104", "anonymity": "high_anonymous", "type": "https", "port": 9999}
+{"host": "104.236.48.178", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "113.161.68.146", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "202.69.38.82", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "94.130.125.216", "anonymity": "high_anonymous", "type": "http", "port": 1080}
+{"host": "94.130.125.220", "anonymity": "high_anonymous", "type": "http", "port": 1080}
+{"host": "111.95.22.73", "anonymity": "high_anonymous", "type": "http", "port": 3128}
+{"host": "171.100.27.57", "anonymity": "high_anonymous", "type": "https", "port": 8118}
+{"host": "182.16.171.1", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "176.117.255.182", "anonymity": "high_anonymous", "type": "https", "port": 53100}
+{"host": "80.87.184.49", "anonymity": "high_anonymous", "type": "http", "port": 41258}
+{"host": "62.99.53.95", "anonymity": "high_anonymous", "type": "http", "port": 39068}
+{"host": "192.140.91.133", "anonymity": "high_anonymous", "type": "https", "port": 50701}
+{"host": "103.221.254.44", "anonymity": "high_anonymous", "type": "https", "port": 56471}
+{"host": "192.140.91.133", "anonymity": "high_anonymous", "type": "http", "port": 50701}
+{"host": "169.1.129.67", "anonymity": "anonymous", "type": "http", "port": 8888}
+{"host": "176.117.255.182", "anonymity": "high_anonymous", "type": "http", "port": 53100}
+{"host": "185.35.142.70", "anonymity": "high_anonymous", "type": "https", "port": 35432}
+{"host": "197.242.206.105", "anonymity": "high_anonymous", "type": "http", "port": 46640}
+{"host": "103.9.188.151", "anonymity": "high_anonymous", "type": "http", "port": 38439}
+{"host": "1.0.187.240", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "154.41.2.154", "anonymity": "high_anonymous", "type": "https", "port": 13538}
+{"host": "81.95.131.10", "anonymity": "high_anonymous", "type": "https", "port": 44292}
+{"host": "95.68.115.202", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "45.236.120.241", "anonymity": "high_anonymous", "type": "https", "port": 999}
+{"host": "1.20.97.96", "anonymity": "high_anonymous", "type": "https", "port": 54205}
+{"host": "187.141.164.242", "anonymity": "high_anonymous", "type": "https", "port": 31120}
+{"host": "213.80.225.40", "anonymity": "high_anonymous", "type": "https", "port": 50096}
+{"host": "1.0.187.240", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "185.138.69.110", "anonymity": "high_anonymous", "type": "https", "port": 39274}
+{"host": "193.106.94.106", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "101.109.35.135", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "186.42.124.130", "anonymity": "high_anonymous", "type": "https", "port": 65301}
+{"host": "82.200.88.50", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "203.170.76.6", "anonymity": "high_anonymous", "type": "http", "port": 58576}
+{"host": "139.255.94.122", "anonymity": "high_anonymous", "type": "http", "port": 44315}
+{"host": "101.109.35.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "46.146.197.19", "anonymity": "high_anonymous", "type": "https", "port": 50611}
+{"host": "165.255.174.18", "anonymity": "anonymous", "type": "http", "port": 3128}
+{"host": "146.196.108.202", "anonymity": "anonymous", "type": "http", "port": 80}
+{"host": "45.236.120.241", "anonymity": "anonymous", "type": "http", "port": 999}
+{"host": "41.160.40.2", "anonymity": "high_anonymous", "type": "http", "port": 37741}
+{"host": "111.95.22.73", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "103.210.141.31", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "176.241.89.36", "anonymity": "high_anonymous", "type": "https", "port": 38170}
+{"host": "14.98.195.90", "anonymity": "high_anonymous", "type": "http", "port": 55207}
+{"host": "185.138.69.110", "anonymity": "high_anonymous", "type": "http", "port": 39274}
+{"host": "82.200.88.50", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "213.14.31.122", "anonymity": "high_anonymous", "type": "http", "port": 54434}
+{"host": "103.254.58.48", "anonymity": "anonymous", "type": "http", "port": 53281}
+{"host": "196.2.14.250", "anonymity": "high_anonymous", "type": "https", "port": 41612}
+{"host": "164.73.191.2", "anonymity": "anonymous", "type": "http", "port": 8080}
+{"host": "188.168.27.71", "anonymity": "high_anonymous", "type": "https", "port": 36733}
+{"host": "177.21.110.254", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "103.241.204.225", "anonymity": "high_anonymous", "type": "http", "port": 8080}
+{"host": "41.160.40.2", "anonymity": "high_anonymous", "type": "https", "port": 37741}
+{"host": "191.242.230.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "103.44.136.9", "anonymity": "high_anonymous", "type": "http", "port": 46706}
+{"host": "159.138.22.112", "anonymity": "high_anonymous", "type": "http", "port": 80}
+{"host": "31.173.94.93", "anonymity": "high_anonymous", "type": "http", "port": 59117}
+{"host": "103.241.204.225", "anonymity": "high_anonymous", "type": "https", "port": 8080}
+{"host": "181.113.225.198", "anonymity": "high_anonymous", "type": "http", "port": 53281}
+{"host": "31.173.94.93", "anonymity": "high_anonymous", "type": "https", "port": 59117}
+{"host": "103.208.152.34", "anonymity": "high_anonymous", "type": "https", "port": 37841}
+{"host": "217.168.76.230", "anonymity": "high_anonymous", "type": "https", "port": 59021}
+{"host": "81.163.36.210", "anonymity": "high_anonymous", "type": "https", "port": 34197}
+{"host": "202.166.196.28", "anonymity": "high_anonymous", "type": "http", "port": 50153}
+{"host": "181.113.225.198", "anonymity": "high_anonymous", "type": "https", "port": 53281}
+{"host": "165.255.174.18", "anonymity": "high_anonymous", "type": "https", "port": 3128}
+{"host": "103.44.136.9", "anonymity": "high_anonymous", "type": "https", "port": 46706}
 {"host": "198.232.160.7", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "77.242.25.143", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "198.232.160.7", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "200.110.172.2", "anonymity": "anonymous", "type": "http", "port": 80}
 {"host": "62.33.207.202", "anonymity": "high_anonymous", "type": "http", "port": 3128}
 {"host": "201.55.164.177", "anonymity": "anonymous", "type": "http", "port": 3128}
 {"host": "188.231.228.2", "anonymity": "high_anonymous", "type": "http", "port": 8080}
@@ -441,7 +563,6 @@
 {"host": "109.188.74.95", "anonymity": "high_anonymous", "type": "http", "port": 8080}
 {"host": "110.44.117.26", "anonymity": "high_anonymous", "type": "http", "port": 43922}
 {"host": "188.231.228.2", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "194.167.44.91", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "88.199.164.140", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "104.248.91.205", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "192.144.128.63", "anonymity": "anonymous", "type": "http", "port": 3128}
@@ -453,7 +574,6 @@
 {"host": "34.212.208.46", "anonymity": "anonymous", "type": "http", "port": 3128}
 {"host": "110.44.117.26", "anonymity": "high_anonymous", "type": "https", "port": 43922}
 {"host": "34.212.208.46", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "31.46.237.142", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "186.232.15.9", "anonymity": "high_anonymous", "type": "http", "port": 45849}
 {"host": "181.40.84.38", "anonymity": "high_anonymous", "type": "http", "port": 49674}
 {"host": "186.227.112.30", "anonymity": "anonymous", "type": "http", "port": 8080}
@@ -464,13 +584,11 @@
 {"host": "201.49.89.221", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "186.232.15.9", "anonymity": "high_anonymous", "type": "https", "port": 45849}
 {"host": "170.247.18.230", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "118.173.232.219", "anonymity": "high_anonymous", "type": "http", "port": 57499}
 {"host": "182.52.51.35", "anonymity": "high_anonymous", "type": "http", "port": 60017}
 {"host": "179.106.88.137", "anonymity": "high_anonymous", "type": "http", "port": 23500}
 {"host": "37.220.195.14", "anonymity": "high_anonymous", "type": "http", "port": 53281}
 {"host": "103.80.81.229", "anonymity": "anonymous", "type": "http", "port": 3128}
 {"host": "36.67.143.183", "anonymity": "high_anonymous", "type": "https", "port": 48746}
-{"host": "186.215.3.204", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "195.55.108.26", "anonymity": "anonymous", "type": "http", "port": 3128}
 {"host": "94.180.249.187", "anonymity": "high_anonymous", "type": "https", "port": 38051}
 {"host": "201.49.89.221", "anonymity": "high_anonymous", "type": "https", "port": 8080}
@@ -479,7 +597,6 @@
 {"host": "186.96.110.162", "anonymity": "high_anonymous", "type": "https", "port": 999}
 {"host": "180.245.41.135", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "177.184.81.184", "anonymity": "anonymous", "type": "http", "port": 20183}
-{"host": "80.90.85.234", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "183.89.186.107", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "223.199.18.194", "anonymity": "high_anonymous", "type": "http", "port": 9999}
 {"host": "223.199.31.143", "anonymity": "high_anonymous", "type": "http", "port": 9999}
@@ -540,7 +657,6 @@
 {"host": "85.187.17.39", "anonymity": "high_anonymous", "type": "https", "port": 53281}
 {"host": "180.242.220.181", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "103.108.98.1", "anonymity": "high_anonymous", "type": "https", "port": 55207}
-{"host": "114.110.21.50", "anonymity": "high_anonymous", "type": "https", "port": 50464}
 {"host": "188.168.96.34", "anonymity": "high_anonymous", "type": "https", "port": 34298}
 {"host": "200.150.86.138", "anonymity": "high_anonymous", "type": "http", "port": 44677}
 {"host": "110.74.199.16", "anonymity": "high_anonymous", "type": "http", "port": 63141}
@@ -551,7 +667,6 @@
 {"host": "141.101.236.49", "anonymity": "high_anonymous", "type": "https", "port": 61853}
 {"host": "159.138.1.185", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "213.33.224.82", "anonymity": "high_anonymous", "type": "https", "port": 8080}
-{"host": "103.94.121.27", "anonymity": "high_anonymous", "type": "http", "port": 60109}
 {"host": "196.0.111.194", "anonymity": "high_anonymous", "type": "https", "port": 34638}
 {"host": "200.150.86.138", "anonymity": "high_anonymous", "type": "https", "port": 44677}
 {"host": "49.70.32.22", "anonymity": "\u9ad8\u533f", "type": "HTTPS", "port": "9999"}
@@ -561,7 +676,6 @@
 {"host": "34.89.152.4", "anonymity": "high_anonymous", "type": "http", "port": 80}
 {"host": "31.131.135.231", "anonymity": "anonymous", "type": "http", "port": 8080}
 {"host": "58.8.233.130", "anonymity": "anonymous", "type": "http", "port": 8080}
-{"host": "109.169.21.194", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "31.131.135.231", "anonymity": "high_anonymous", "type": "https", "port": 8080}
 {"host": "116.114.19.211", "anonymity": "anonymous", "type": "http", "port": 443}
 {"host": "103.216.48.83", "anonymity": "anonymous", "type": "http", "port": 8080}
@@ -608,7 +722,6 @@
 {"host": "188.129.161.55", "anonymity": "high_anonymous", "type": "https", "port": 36631}
 {"host": "78.8.189.1", "anonymity": "high_anonymous", "type": "https", "port": 32040}
 {"host": "120.234.63.196", "anonymity": "high_anonymous", "type": "https", "port": 3128}
-{"host": "131.255.118.30", "anonymity": "high_anonymous", "type": "https", "port": 53281}
 {"host": "41.217.217.60", "anonymity": "high_anonymous", "type": "https", "port": 39440}
 {"host": "103.117.213.74", "anonymity": "high_anonymous", "type": "https", "port": 59283}
 {"host": "109.188.74.95", "anonymity": "high_anonymous", "type": "https", "port": 8080}
@@ -680,7 +793,6 @@
 {"host": "92.255.174.56", "anonymity": "high_anonymous", "type": "http", "port": 35897}
 {"host": "92.255.174.56", "anonymity": "high_anonymous", "type": "https", "port": 35897}
 {"host": "191.241.226.230", "anonymity": "high_anonymous", "type": "http", "port": 53281}
-{"host": "103.94.171.134", "anonymity": "high_anonymous", "type": "http", "port": 46276}
 {"host": "182.52.51.35", "anonymity": "high_anonymous", "type": "https", "port": 60017}
 {"host": "202.166.196.28", "anonymity": "high_anonymous", "type": "https", "port": 50153}
 {"host": "103.73.225.182", "anonymity": "high_anonymous", "type": "https", "port": 8080}
@@ -765,7 +877,6 @@
 {"type": "https", "from": "freeproxylist", "response_time": 6.24, "host": "93.152.176.249", "port": 54136, "export_address": ["93.152.176.222", "93.152.176.222"], "country": "BG", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 6.31, "host": "185.175.95.46", "port": 49065, "export_address": ["185.175.95.46", "185.175.95.46"], "country": "UA", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 6.37, "host": "41.79.197.150", "port": 8080, "export_address": ["41.79.197.150", "41.79.197.150"], "country": "SO", "anonymity": "high_anonymous"}
-{"type": "http", "from": "txt", "response_time": 6.26, "host": "181.198.97.241", "port": 30072, "export_address": ["181.198.97.241", "181.198.97.241"], "country": "EC", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 6.55, "host": "181.57.198.102", "port": 46960, "export_address": ["181.57.198.102", "181.57.198.102"], "country": "CO", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 6.62, "host": "221.120.210.220", "port": 39617, "export_address": ["221.120.210.220", "221.120.210.220"], "country": "PK", "anonymity": "high_anonymous"}
 {"type": "https", "from": "txt", "response_time": 6.84, "host": "43.245.202.110", "port": 58684, "export_address": ["43.245.202.110", "43.245.202.110"], "country": "KH", "anonymity": "high_anonymous"}
@@ -780,7 +891,6 @@
 {"type": "http", "from": "freeproxylist", "response_time": 1.81, "host": "109.169.21.205", "port": 8080, "export_address": ["109.169.21.205", "109.169.21.205"], "country": "GB", "anonymity": "anonymous"}
 {"type": "http", "from": "freeproxylist", "response_time": 1.5, "host": "151.253.158.20", "port": 8080, "export_address": ["2.50.167.53", "2.50.167.53"], "country": "AE", "anonymity": "high_anonymous"}
 {"type": "http", "from": "freeproxylist", "response_time": 1.49, "host": "182.253.115.90", "port": 8080, "export_address": ["182.253.115.90", "182.253.115.90"], "country": "ID", "anonymity": "high_anonymous"}
-{"type": "http", "from": "freeproxylist", "response_time": 2.22, "host": "200.89.178.28", "port": 8080, "export_address": ["unknown", "200.89.178.28", "200.89.178.28"], "country": "AR", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 2.81, "host": "109.169.21.205", "port": 8080, "export_address": ["109.169.21.205", "109.169.21.205"], "country": "GB", "anonymity": "high_anonymous"}
 {"type": "https", "from": "freeproxylist", "response_time": 2.95, "host": "117.4.243.97", "port": 8080, "export_address": ["117.4.243.97", "117.4.243.97"], "country": "VN", "anonymity": "high_anonymous"}
 {"type": "http", "from": "freeproxylist", "response_time": 2.79, "host": "212.154.58.98", "port": 35116, "export_address": ["212.154.58.98", "212.154.58.98"], "country": "TR", "anonymity": "high_anonymous"}
@@ -1024,8 +1134,6 @@
 {"export_address": ["195.22.239.238", "195.22.239.238"], "response_time": 5.93, "from": "txt", "anonymity": "high_anonymous", "port": 8080, "type": "https", "host": "195.22.239.238", "country": "MD"}
 {"export_address": ["186.225.45.13", "186.225.45.13"], "response_time": 7.94, "from": "freeproxylist", "anonymity": "high_anonymous", "port": 45974, "type": "https", "host": "186.225.45.13", "country": "BR"}
 {"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 2.73, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "http", "host": "139.5.71.126", "country": "NP"}
-{"export_address": ["181.198.97.241", "181.198.97.241"], "response_time": 3.48, "from": "txt", "anonymity": "high_anonymous", "port": 30072, "type": "http", "host": "181.198.97.241", "country": "EC"}
-{"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 5.19, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "https", "host": "139.5.71.126", "country": "NP"}
 {"export_address": ["190.152.71.30", "190.152.71.30"], "response_time": 3.56, "from": "txt", "anonymity": "high_anonymous", "port": 58727, "type": "http", "host": "190.152.71.30", "country": "EC"}
 {"export_address": ["188.242.224.144", "188.242.224.144"], "response_time": 7.38, "from": "txt", "anonymity": "high_anonymous", "port": 56391, "type": "https", "host": "188.242.224.144", "country": "RU"}
 {"export_address": ["45.228.48.4", "45.228.48.4"], "response_time": 4.44, "from": "txt", "anonymity": "high_anonymous", "port": 53281, "type": "https", "host": "45.228.48.4", "country": "BR"}
@@ -1176,8 +1284,6 @@
 {"export_address": ["195.22.239.238", "195.22.239.238"], "response_time": 5.93, "from": "txt", "anonymity": "high_anonymous", "port": 8080, "type": "https", "host": "195.22.239.238", "country": "MD"}
 {"export_address": ["186.225.45.13", "186.225.45.13"], "response_time": 7.94, "from": "freeproxylist", "anonymity": "high_anonymous", "port": 45974, "type": "https", "host": "186.225.45.13", "country": "BR"}
 {"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 2.73, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "http", "host": "139.5.71.126", "country": "NP"}
-{"export_address": ["181.198.97.241", "181.198.97.241"], "response_time": 3.48, "from": "txt", "anonymity": "high_anonymous", "port": 30072, "type": "http", "host": "181.198.97.241", "country": "EC"}
-{"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 5.19, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "https", "host": "139.5.71.126", "country": "NP"}
 {"export_address": ["190.152.71.30", "190.152.71.30"], "response_time": 3.56, "from": "txt", "anonymity": "high_anonymous", "port": 58727, "type": "http", "host": "190.152.71.30", "country": "EC"}
 {"export_address": ["188.242.224.144", "188.242.224.144"], "response_time": 7.38, "from": "txt", "anonymity": "high_anonymous", "port": 56391, "type": "https", "host": "188.242.224.144", "country": "RU"}
 {"export_address": ["45.228.48.4", "45.228.48.4"], "response_time": 4.44, "from": "txt", "anonymity": "high_anonymous", "port": 53281, "type": "https", "host": "45.228.48.4", "country": "BR"}
@@ -1328,8 +1434,6 @@
 {"export_address": ["195.22.239.238", "195.22.239.238"], "response_time": 5.93, "from": "txt", "anonymity": "high_anonymous", "port": 8080, "type": "https", "host": "195.22.239.238", "country": "MD"}
 {"export_address": ["186.225.45.13", "186.225.45.13"], "response_time": 7.94, "from": "freeproxylist", "anonymity": "high_anonymous", "port": 45974, "type": "https", "host": "186.225.45.13", "country": "BR"}
 {"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 2.73, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "http", "host": "139.5.71.126", "country": "NP"}
-{"export_address": ["181.198.97.241", "181.198.97.241"], "response_time": 3.48, "from": "txt", "anonymity": "high_anonymous", "port": 30072, "type": "http", "host": "181.198.97.241", "country": "EC"}
-{"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 5.19, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "https", "host": "139.5.71.126", "country": "NP"}
 {"export_address": ["190.152.71.30", "190.152.71.30"], "response_time": 3.56, "from": "txt", "anonymity": "high_anonymous", "port": 58727, "type": "http", "host": "190.152.71.30", "country": "EC"}
 {"export_address": ["188.242.224.144", "188.242.224.144"], "response_time": 7.38, "from": "txt", "anonymity": "high_anonymous", "port": 56391, "type": "https", "host": "188.242.224.144", "country": "RU"}
 {"export_address": ["45.228.48.4", "45.228.48.4"], "response_time": 4.44, "from": "txt", "anonymity": "high_anonymous", "port": 53281, "type": "https", "host": "45.228.48.4", "country": "BR"}
@@ -1480,8 +1584,6 @@
 {"export_address": ["195.22.239.238", "195.22.239.238"], "response_time": 5.93, "from": "txt", "anonymity": "high_anonymous", "port": 8080, "type": "https", "host": "195.22.239.238", "country": "MD"}
 {"export_address": ["186.225.45.13", "186.225.45.13"], "response_time": 7.94, "from": "freeproxylist", "anonymity": "high_anonymous", "port": 45974, "type": "https", "host": "186.225.45.13", "country": "BR"}
 {"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 2.73, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "http", "host": "139.5.71.126", "country": "NP"}
-{"export_address": ["181.198.97.241", "181.198.97.241"], "response_time": 3.48, "from": "txt", "anonymity": "high_anonymous", "port": 30072, "type": "http", "host": "181.198.97.241", "country": "EC"}
-{"export_address": ["139.5.71.126", "139.5.71.126"], "response_time": 5.19, "from": "txt", "anonymity": "high_anonymous", "port": 23500, "type": "https", "host": "139.5.71.126", "country": "NP"}
 {"export_address": ["190.152.71.30", "190.152.71.30"], "response_time": 3.56, "from": "txt", "anonymity": "high_anonymous", "port": 58727, "type": "http", "host": "190.152.71.30", "country": "EC"}
 {"export_address": ["188.242.224.144", "188.242.224.144"], "response_time": 7.38, "from": "txt", "anonymity": "high_anonymous", "port": 56391, "type": "https", "host": "188.242.224.144", "country": "RU"}
 {"export_address": ["45.228.48.4", "45.228.48.4"], "response_time": 4.44, "from": "txt", "anonymity": "high_anonymous", "port": 53281, "type": "https", "host": "45.228.48.4", "country": "BR"}
@@ -1609,7 +1711,6 @@
 {"host": "118.174.232.92", "export_address": ["118.174.232.92", "118.174.232.92"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "TH", "response_time": 8.83, "type": "http", "port": 45759}
 {"host": "41.75.123.29", "export_address": ["41.75.123.29", "41.75.123.29"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "MW", "response_time": 8.84, "type": "https", "port": 57872}
 {"host": "222.121.116.26", "export_address": ["222.121.116.26", "222.121.116.26"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "KR", "response_time": 8.7, "type": "https", "port": 40618}
-{"host": "83.219.1.201", "export_address": ["83.219.1.201", "83.219.1.201"], "anonymity": "high_anonymous", "from": "txt", "country": "RU", "response_time": 8.79, "type": "https", "port": 41380}
 {"host": "82.117.244.85", "export_address": ["82.117.244.85", "82.117.244.85"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "UA", "response_time": 9.25, "type": "https", "port": 31280}
 {"host": "103.106.34.246", "export_address": ["45.249.185.210", "45.249.185.210"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "BD", "response_time": 9.62, "type": "https", "port": 54820}
 {"host": "197.242.206.105", "export_address": ["197.242.206.105", "197.242.206.105"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "ZA", "response_time": 12.24, "type": "https", "port": 46640}
@@ -1619,11 +1720,9 @@
 {"host": "77.58.96.177", "export_address": ["77.58.96.177", "77.58.96.177"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "CH", "response_time": 0.78, "type": "http", "port": 80}
 {"host": "136.243.21.27", "export_address": ["136.243.21.27", "136.243.21.27"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "DE", "response_time": 1.31, "type": "http", "port": 1080}
 {"host": "108.61.186.207", "export_address": ["108.61.186.207", "108.61.186.207"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "JP", "response_time": 1.21, "type": "http", "port": 8080}
-{"host": "85.187.184.129", "export_address": ["85.187.184.129", "85.187.184.129"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "BG", "response_time": 0.73, "type": "http", "port": 8080}
 {"host": "139.99.105.186", "export_address": ["127.0.0.1", "139.99.105.186", "127.0.0.1"], "anonymity": "anonymous", "from": "freeproxylist", "country": "SG", "response_time": 0.69, "type": "http", "port": 80}
 {"host": "77.58.96.177", "export_address": ["77.58.96.177", "77.58.96.177"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "CH", "response_time": 1.56, "type": "https", "port": 80}
 {"host": "108.61.186.207", "export_address": ["108.61.186.207", "108.61.186.207"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "JP", "response_time": 2.11, "type": "https", "port": 8080}
-{"host": "85.187.184.129", "export_address": ["85.187.184.129", "85.187.184.129"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "BG", "response_time": 1.43, "type": "https", "port": 8080}
 {"host": "190.217.1.89", "export_address": ["190.217.9.101", "190.217.9.101"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "VE", "response_time": 3.04, "type": "http", "port": 32192}
 {"host": "190.217.1.89", "export_address": ["190.217.9.101", "190.217.9.101"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "VE", "response_time": 3.05, "type": "https", "port": 32192}
 {"host": "181.48.111.246", "export_address": ["181.48.111.246", "181.48.111.246"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "CO", "response_time": 3.63, "type": "https", "port": 49094}
@@ -1659,7 +1758,6 @@
 {"host": "103.216.48.81", "export_address": ["103.216.51.210", "103.216.51.210"], "anonymity": "anonymous", "from": "freeproxylist", "country": "KH", "response_time": 6.59, "type": "http", "port": 8080}
 {"host": "41.217.216.45", "export_address": ["41.217.216.45", "41.217.216.45"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "MW", "response_time": 6.95, "type": "http", "port": 33602}
 {"host": "162.223.88.246", "export_address": ["162.223.88.246", "162.223.88.246"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "US", "response_time": 6.82, "type": "http", "port": 8080}
-{"host": "182.52.238.44", "export_address": ["182.52.238.44", "182.52.238.44"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "TH", "response_time": 7.0, "type": "https", "port": 37758}
 {"host": "95.170.208.42", "export_address": ["95.170.208.42", "95.170.208.42"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "IQ", "response_time": 6.73, "type": "https", "port": 8080}
 {"host": "27.50.18.42", "export_address": ["27.50.18.42", "27.50.18.42"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "ID", "response_time": 4.5, "type": "https", "port": 23500}
 {"host": "36.72.94.3", "export_address": ["36.72.94.3", "36.72.94.3"], "anonymity": "high_anonymous", "from": "freeproxylist", "country": "ID", "response_time": 4.6, "type": "https", "port": 8080}
@@ -1680,7 +1778,6 @@
 {"host": "74.84.255.88", "export_address": ["74.84.255.88", "74.84.255.88"], "anonymity": "high_anonymous", "from": "txt", "country": "US", "response_time": 1.88, "type": "http", "port": 53281}
 {"host": "201.151.79.30", "export_address": ["201.151.79.30", "201.151.79.30"], "anonymity": "high_anonymous", "from": "txt", "country": "MX", "response_time": 5.85, "type": "https", "port": 8080}
 {"host": "74.84.255.88", "export_address": ["74.84.255.88", "74.84.255.88"], "anonymity": "high_anonymous", "from": "txt", "country": "US", "response_time": 2.89, "type": "https", "port": 53281}
-{"host": "181.198.97.241", "export_address": ["181.198.97.241", "181.198.97.241"], "anonymity": "high_anonymous", "from": "txt", "country": "EC", "response_time": 6.06, "type": "https", "port": 30072}
 {"host": "181.143.157.242", "export_address": ["181.143.157.242", "181.143.157.242"], "anonymity": "high_anonymous", "from": "txt", "country": "CO", "response_time": 6.1, "type": "https", "port": 50942}
 {"host": "45.228.48.4", "export_address": ["45.228.48.4", "45.228.48.4"], "anonymity": "high_anonymous", "from": "txt", "country": "BR", "response_time": 2.78, "type": "https", "port": 53281}
 {"host": "190.92.5.158", "export_address": ["190.92.5.158", "190.92.5.158"], "anonymity": "high_anonymous", "from": "txt", "country": "HN", "response_time": 7.22, "type": "https", "port": 53281}
